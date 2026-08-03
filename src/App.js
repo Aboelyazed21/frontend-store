@@ -1,4 +1,4 @@
-// import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import LoginPage from './components/Auth/LoginPage';
 import RegisterPage from './components/Auth/RegisterPage';
 import AmazonClothingStore from './components/Store/AmazonClothingStore';
